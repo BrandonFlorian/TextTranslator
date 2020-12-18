@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TextTranslator</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="load_photo">Load Photo</string>
+    <string name="back">Back</string>
+    <string name="settings">Set Input/Output Languages</string>
+    <string name="source">Source Language</string>
+    <string name="target">Target Language</string>
+    <string name="set_input">Set Input Language</string>
+    <string name="set_output">Set Output Language</string>
+
+</resources>
